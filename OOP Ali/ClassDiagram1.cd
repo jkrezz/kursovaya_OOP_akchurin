@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Ali.createEditForm">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAgBACAAABACAACAAAASAAAAAgAAABgACAgAADA=</HashCode>
+      <FileName>createEditForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Ali.FiltForm">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACQgABAQAACAAAASAgAAACAAAAAAAAAIAAA=</HashCode>
+      <FileName>FiltForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Ali.Library">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAICACIAAAAAAAAAAAAAAAAAAAIACBEAEAAAAAAA=</HashCode>
+      <FileName>Library.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
